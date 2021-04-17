@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Je suis future ingénieure mais je suis perdue
+Je suis en stage.
+
